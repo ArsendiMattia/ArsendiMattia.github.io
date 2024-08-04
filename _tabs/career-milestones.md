@@ -3,6 +3,13 @@
 icon: fas fa-info-circle
 order: 3
 ---
+## 2024
+
+- ### **Contract - Mid Data Scientist at Unity Techonologies (Finland)**
+  - **Date:** 1 July 
+
+  &nbsp;
+
 ## 2023
 
 - ### **MSc degree - Final project: Bayesian Workflow for Winning Bid Estimation in Real-Time Bidding**
